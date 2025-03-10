@@ -15,3 +15,7 @@ To run the Quantum Maze Solver, ensure you have the required dependencies and pa
   qiskit
   qiskit-algorithms
   numpy
+
+💣 Output
+  Will show the most probable path converted into a binary format
+  Quantum Circuit with the corresponding gates and qubits is also shown
