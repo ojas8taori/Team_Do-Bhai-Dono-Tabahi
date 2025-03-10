@@ -173,17 +173,10 @@ def solve_maze_grover(maze, start, end):
 # Example usage (using the new maze matrix)
 
 matrix = [
-
-    [1, 0, 0, 0, 1],
-
-    [1, 1, 1, 0, 1],
-
-    [0, 0, 1, 0, 1],
-
-    [0, 1, 1, 1, 1],
-
-    [1, 1, 0, 0, 1]
-
+    [1, 0, 1, 1],
+    [1, 1, 0, 1],
+    [0, 1, 1, 1],
+    [1, 1, 0, 1]
 ]
 
 
@@ -192,7 +185,7 @@ maze = np.array(matrix)
 
 start = (0, 0)
 
-end = (4,4)
+end = (3,3)
 
 
 
