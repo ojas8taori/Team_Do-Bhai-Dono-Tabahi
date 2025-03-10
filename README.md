@@ -8,10 +8,10 @@ By using quantum superposition, interference, and amplitude amplification, it ef
 🔄 Superposition & Parallel Exploration: Evaluates multiple paths simultaneously.
 🚀 Efficient Search Optimization: Faster than classical brute-force methods.
 🖥️ Hybrid Execution: Supports both quantum simulators and real IBM Quantum hardware.
-🏗️ Installation
-To run the Quantum Maze Solver, ensure you have the required dependencies installed.
 
-Prerequisites
-Python >= 3.8
-Qiskit (for quantum computing)
-NumPy (Logic)
+🏗️ Installation
+To run the Quantum Maze Solver, ensure you have the required dependencies and packages are installed;
+  pip
+  qiskit
+  qiskit-algorithms
+  numpy
